@@ -32,12 +32,13 @@ namespace BoardGameGeekAPI
             }
         };
 
-        public Items GetUserCollection(string username, bool rated = true, bool stats = true, bool own = true)
+        public Items GetUserCollection(string username, bool rated = true, bool stats = true, bool own = true, int? wishlistPriority = null)
         {
             var formattedText = $"collection?username={username}" + 
                                 (stats ? "&stats=1" : string.Empty) +
                                 (!own ? "&own=0" : string.Empty) +
-                                (rated ? "&rated=1" : string.Empty);
+                                (rated ? "&rated=1" : string.Empty) +
+                                (wishlistPriority.HasValue ? $"&wishlistpriority={wishlistPriority}" : string.Empty);
 
             if (!TryGetRetryElement(formattedText, out string xml))
                 return null;
