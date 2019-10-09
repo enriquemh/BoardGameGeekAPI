@@ -1,0 +1,14 @@
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\obj\Debug\netcoreapp2.1\BoardGameGeekConsole.csprojAssemblyReference.cache
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\obj\Debug\netcoreapp2.1\BoardGameGeekConsole.csproj.CoreCompileInputs.cache
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\obj\Debug\netcoreapp2.1\BoardGameGeekConsole.AssemblyInfoInputs.cache
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\obj\Debug\netcoreapp2.1\BoardGameGeekConsole.AssemblyInfo.cs
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\bin\Debug\netcoreapp2.1\BoardGameGeekConsole.deps.json
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\bin\Debug\netcoreapp2.1\BoardGameGeekConsole.runtimeconfig.json
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\bin\Debug\netcoreapp2.1\BoardGameGeekConsole.runtimeconfig.dev.json
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\bin\Debug\netcoreapp2.1\BoardGameGeekConsole.dll
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\bin\Debug\netcoreapp2.1\BoardGameGeekConsole.pdb
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\bin\Debug\netcoreapp2.1\BoardGameGeekAPI.dll
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\bin\Debug\netcoreapp2.1\BoardGameGeekAPI.pdb
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\obj\Debug\netcoreapp2.1\BoardGameGeekConsole.csproj.CopyComplete
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\obj\Debug\netcoreapp2.1\BoardGameGeekConsole.dll
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekConsole\obj\Debug\netcoreapp2.1\BoardGameGeekConsole.pdb

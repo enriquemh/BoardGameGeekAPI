@@ -1,0 +1,8 @@
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekAPI\obj\Debug\netcoreapp2.1\BoardGameGeekAPI.csproj.CoreCompileInputs.cache
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekAPI\obj\Debug\netcoreapp2.1\BoardGameGeekAPI.AssemblyInfoInputs.cache
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekAPI\obj\Debug\netcoreapp2.1\BoardGameGeekAPI.AssemblyInfo.cs
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekAPI\bin\Debug\netcoreapp2.1\BoardGameGeekAPI.deps.json
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekAPI\bin\Debug\netcoreapp2.1\BoardGameGeekAPI.dll
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekAPI\bin\Debug\netcoreapp2.1\BoardGameGeekAPI.pdb
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekAPI\obj\Debug\netcoreapp2.1\BoardGameGeekAPI.dll
+C:\Users\enhe\source\repos\BoardGameGeek\BoardGameGeekAPI\obj\Debug\netcoreapp2.1\BoardGameGeekAPI.pdb
